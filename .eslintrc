@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "react-app",
+    "prettier/react",
+    "prettier/prettier",
+    "prettier/babel",
+    "prettier"
+  ],
+  "plugins": [
+    "prettier"
+  ],
+  "env": {
+    "es6": true,
+    "browser": true
+  }
+}
